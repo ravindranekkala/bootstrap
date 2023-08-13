@@ -1,0 +1,19 @@
+.row img{
+	 	float: left;
+	 	height: 100px;
+	 	width: 100px;
+	 	border-radius: 50%;
+	 }
+	 .card{
+	 	float: left;
+	 }
+	 .container{
+	 	background-color: grey;
+	 }
+	 .card-body{
+	 	padding-left: 20px;
+	 }
+	
+	.na{
+	 	padding-left: 45px;
+	 }
